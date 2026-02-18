@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/BNP-UE/:/",
-    "/content/BNP-UE/configuration:/.helix/config.json",
-    "/content/BNP-UE/metadata:/metadata.json"
+    "/content/bnp-ue/:/",
+    "/content/bnp-ue/configuration:/.helix/config.json",
+    "/content/bnp-ue/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/BNP-UE/"
+    "/content/bnp-ue/"
   ]
 }
