@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p166215-e1771259.adobeaemcloud.com/bin/franklin.delivery/pascalthomas67/BNP-UE/main"
+    url: "https://author-p166215-e1771259.adobeaemcloud.com/bin/franklin.delivery/pascalthomas67/bnp-ue/main"
     type: "markup"
     suffix: ".html"
